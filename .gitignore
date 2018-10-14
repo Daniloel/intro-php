@@ -1,0 +1,5 @@
+._.DS_Store
+vendor/
+._composer.phar
+composer.phar
+.env
